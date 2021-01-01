@@ -8,3 +8,7 @@ print(num_sum)
 
 multiply = num_one * num_two
 print(multiply)
+
+divition = num_one / num_two
+print(divition)
+
